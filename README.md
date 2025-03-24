@@ -8,8 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🔹 Passionate about building scalable and efficient applications.  
-- 🔹 Currently optimizing a **Laravel** project with services and design patterns.  
-- 🔹 Exploring **Next.js** in the mornings and **Flutter** at night.  
+- 🔹 Currently optimizing a **Laravel** project with services and design patterns. 
 - 🔹 Learning **UI/UX** to craft seamless user experiences.  
 - 🔹 Interested in business models, especially monetization strategies.  
 
