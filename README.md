@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Henok 👋</h1>
 
 <p align="center">
-🚀 Laravel | 🖥️ Next.js | 📱 Flutter | 🎨 UI/UX | 📊 Business Strategy  
+🚀 Laravel | 🖥️ Angular | 🎨 UI/UX | 📊 Business Strategy  
 </p>
 
 ---
@@ -18,11 +18,10 @@
 - **Frontend:** Next.js (React), Flutter  
 - **Database:** MySQL, PostgreSQL  
 - **Tools & DevOps:** Git, Docker, Redis, RabbitMQ  
-- **Other:** RSA Signing, Adapter Pattern, API Development  
+- **Other:** RSA Signing, Adapter Pattern, API Development
 
 ### 🚀 Projects & Work
 - 🏗️ **Laravel SMS Queue & Billing System** (Optimized for performance)  
-- 📲 **Food Ordering Mobile App** (Full-stack with live tracking)  
 - 🌍 **Multi-Vendor System (Planning Phase)**  
 
 ### 📚 Learning & Growth
@@ -32,7 +31,7 @@
 - 📌 **Time Management & Productivity Hacks**  
 
 ### 🔥 Let's Connect!
-💼 **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/khenok/)](#)
+💼 **LinkedIn:** [[Profile](https://www.linkedin.com/in/khenok/)](#)
 
 ---
 
